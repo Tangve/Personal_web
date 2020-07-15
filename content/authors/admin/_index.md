@@ -22,6 +22,7 @@ bio: My research interests include robotics, computer vision and reinforcement l
 
 interests:
 - Robotics
+- Control
 - Computer Vision
 - Reinforcement Learning
 
@@ -41,7 +42,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "tangwy@seas.upenn.edu"
+  link: "mailto:tangwy22@gmail.com"
 - icon: github
   icon_pack: fab
   link: https://github.com/Tangve
