@@ -21,16 +21,16 @@ subtitle = ""
   description = "Python, C/C++, MATLAB, GAMS, Assembly language, Mathematica"
   
 [[feature]]
-  icon = "chart-line"
+  icon = "robot"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  name = "Robotics"
+  description = "ROS, Pytorch, Tensorflow, OpenCV, OpenAI, Pandas, NumPy, Matplotlib, SolidWorks, Ubuntu"  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "joystick"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Control"
+  description = "Feedback Control, Model Perdictive Control, Motion Planning"
 
 # Uncomment to use emoji icons.
 # [[feature]]
