@@ -29,10 +29,10 @@ interests:
 education:
   courses:
   - course: MS in Electrical Engineering
-    institution: University of Pennsylvania
+    institution: University of Pennsylvania, US
     year: 2020
   - course: BS in Electrical Engineering and Automation
-    institution: Hunan University
+    institution: Hunan University, CN
     year: 2018
 
 # Social/Academic Networking
