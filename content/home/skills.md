@@ -27,7 +27,7 @@ subtitle = ""
   description = "ROS, Pytorch, Tensorflow, OpenCV, OpenAI, Pandas, NumPy, Matplotlib, SolidWorks, Ubuntu"  
   
 [[feature]]
-  icon = "joystick"
+  icon = "gamepad"
   icon_pack = "fas"
   name = "Control"
   description = "Feedback Control, Model Perdictive Control, Motion Planning"
