@@ -30,7 +30,7 @@ education:
   - course: MS in Electrical Engineering
     institution: University of Pennsylvania
     year: 2020
-  - course: BS in Eletrical Engineering and Automation
+  - course: BS in Electrical Engineering and Automation
     institution: Hunan University
     year: 2018
 
@@ -41,7 +41,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "tangwy@seas.upenn.edu".
+  link: "tangwy@seas.upenn.edu"
 - icon: github
   icon_pack: fab
   link: https://github.com/Tangve
