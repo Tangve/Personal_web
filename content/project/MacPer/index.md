@@ -27,8 +27,5 @@ Logo Projection
 Scale Invariant
 {{< figure src="Sinv1.PNG" title="Scale Invariant" lightbox="true" >}}
 
-SIFT Matching
-{{< figure src="SIFTMatch.PNG title="SIFT Matching" lightbox="true" >}}
-
 3D reconstruction
 {{< figure src="3Dre.PNG" title="3D reconstruction" lightbox="true" >}}
