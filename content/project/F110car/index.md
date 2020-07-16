@@ -38,3 +38,6 @@ Scan Match
 
 Motion Planning (RRT*):
 {{< youtube 0cDj6UN50go >}}
+
+Racing:
+{{< youtube AiyRyMEZwpE >}}
