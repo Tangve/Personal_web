@@ -20,3 +20,6 @@ tags = ["Control"]
 # Optional external URL for project (replaces project detail page).
 external_link = "https://github.com/Tangve/ODrive_Hopper_Robot"
 +++
+---
+Please enjoy the video (More details are coming later!):<br>
+{{< youtube 7lFuCAbviWo >}}
