@@ -6,7 +6,7 @@ layout = "project"
 # Project title.
 title = "Inverse Lego"
 
-authors = ["Weichen (Tony) Zheng", "Yiting (Ellen) Hua", "**Weiyi Tang**", "Hanyu (Sylvie) Sun"]
+authors = ["Weichen (Tony) Zheng", "Yiting (Ellen) Hua", "Weiyi Tang", "Hanyu (Sylvie) Sun"]
 
 # Project summary to display on homepage.
 summary = """
