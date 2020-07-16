@@ -6,7 +6,7 @@ layout = "project"
 # Project title.
 title = "Obstacle Avoidance: Path Planning and MPC Tracking"
 
-authors = ["Jiacan Xu", "**Weiyi Tang**", "Suyu Zhou"]
+authors = ["Jiacan Xu", "Weiyi Tang", "Suyu Zhou"]
 
 # Project summary to display on homepage.
 summary = """
