@@ -22,10 +22,10 @@ tags = ["Computer Vision"]
 Please enjoy the video! (More details are coming later!)<br>
 
 Logo Projection
-{{< youtube UzkJ65kyCsY >}}
+{{< figure src="logo.PNG" title="" lightbox="true" >}}
 
 Scale Invariant
-{{< figure src="Sinv1.PNG" title="Scale Invariant" lightbox="true" >}}
+{{< figure src="Sinv1.PNG" title="" lightbox="true" >}}
 
 3D reconstruction
-{{< figure src="3Dre.PNG" title="3D reconstruction" lightbox="true" >}}
+{{< figure src="3Dre.PNG" title="" lightbox="true" >}}
