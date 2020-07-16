@@ -7,7 +7,7 @@ layout = "project"
 title = "Classic Computer Vision Methods"
 
 
-authors = ["Weiyi Tang", "Zhiyuan Li"]
+authors = [**"Weiyi Tang"**, "Zhiyuan Li"]
 
 # Project summary to display on homepage.
 summary = """
