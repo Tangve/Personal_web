@@ -20,4 +20,4 @@ tags = ["Computer Vision"]
 +++
 ---
 Below is the morphing result:
-{{< figure src="morphResults.gif" title="Morphing Result" lightbox="true" >}}
+{{< video src="morphResults.gif" controls="yes" >}}
