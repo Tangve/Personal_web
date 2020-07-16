@@ -21,3 +21,20 @@ tags = ["Control"]
 # Optional external URL for project (replaces project detail page).
 # external_link = "https://www.educoder.net/paths/130"
 +++
+
+---
+Please enjoy the video (More details are coming later!)<br>
+
+In the ROS simulator:
+
+Wall Following:
+{{< youtube gWFdEn1oq98 >}}
+
+Reactive Method:
+{{< youtube 3MXMH1wodKs >}}
+
+Scan Match
+{{< youtube hmejmf63lrM >}}
+
+Motion Planning (RRT*):
+{{< youtube 0cDj6UN50go >}}
