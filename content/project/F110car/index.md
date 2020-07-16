@@ -6,6 +6,9 @@ layout = "project"
 # Project title.
 title = "F1/10 Autonomous Racing"
 
+
+authors = ["Weiyi Tang", "Shivangi Misra", "Dingding Zheng"]
+
 # Project summary to display on homepage.
 summary = """
 Assembly a F1/10 car and utilized C++ via ROS to code different algorithm to make car perform different behaviors.<br> 
