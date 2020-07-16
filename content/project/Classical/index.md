@@ -19,6 +19,6 @@ tags = ["Computer Vision"]
 #external_link = "https://github.com/Tangve/Classic_Computer_Vision_Methods"
 +++
 ---
-Results are below (More details are coming later!)
+Results are below (More details are coming later!)<br>
 Image morphing:
-{{< video src="morphResults.mp4" controls="yes" >}}
+{{< video src="morphResults.mp4" controls="no" >}}
