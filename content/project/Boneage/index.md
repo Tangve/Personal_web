@@ -7,7 +7,7 @@ layout = "project"
 title = "Deep Learning System for Bone Age Assessment"
 
 
-authors = ["Weiyi Tang", "Tiening Li", "Shiao Li", "Songyue Lu"]
+authors = [**"Weiyi Tang"**, "Tiening Li", "Shiao Li", "Songyue Lu"]
 
 # Project summary to display on homepage.
 summary = """
