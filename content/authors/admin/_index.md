@@ -46,6 +46,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/Tangve
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/weiyi-tang-185372174/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -62,6 +65,6 @@ user_groups:
 - Visitors
 ---
 
-I am a Master student in the Department of Electrical and System Engineering (ESE) of the University of Pennsylvania. I am currently a research assistent at Kod Lab, a subsidiary of the Penn Engineering GRASP Lab. My research interest lies in the interaction of robotics, control and vision. I am currently working on applying reinforcement learning to Minitaur hopper robot and learning predictive models from observation and interaction. I am particularly excited about finding ways to make robots interact with the physical environment surrounding them, then solve challenging tasks automatically.
+I am a Master student in the Department of Electrical and System Engineering (ESE) of the University of Pennsylvania. I am currently a research assistent at [Kod Lab](https://kodlab.seas.upenn.edu/), a subsidiary of the Penn Engineering GRASP Lab. My research interest lies in the interaction of robotics, control and vision. I am currently working on applying reinforcement learning to Minitaur hopper robot and learning predictive models from observation and interaction. I am particularly excited about finding ways to make robots interact with the physical environment surrounding them, then solve challenging tasks automatically.
 
 I am actively looking for a PhD position starting from Aug 2021. Please feel free to contact me!
