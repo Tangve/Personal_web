@@ -7,7 +7,7 @@ layout = "project"
 title = "F1/10 Autonomous Racing"
 
 
-authors = [**"Weiyi Tang"**, "Shivangi Misra", "Dingding Zheng"]
+authors = ["**Weiyi Tang**", "Shivangi Misra", "Dingding Zheng"]
 
 # Project summary to display on homepage.
 summary = """
