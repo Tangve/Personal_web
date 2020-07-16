@@ -20,4 +20,4 @@ tags = ["Computer Vision"]
 +++
 ---
 
-Hahahahaha
+More details are coming later!
