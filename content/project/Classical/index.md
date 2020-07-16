@@ -18,3 +18,6 @@ tags = ["Computer Vision"]
 # Optional external URL for project (replaces project detail page).
 external_link = "https://github.com/Tangve/Classic_Computer_Vision_Methods"
 +++
+---
+Below is the morphing result:
+{{< figure src="morphResults.gif" title="Morphing Result" lightbox="true" >}}
