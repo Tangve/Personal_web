@@ -21,4 +21,4 @@ tags = ["Computer Vision"]
 ---
 Results are below (More details are coming later!)<br>
 Image morphing:
-{{< video src="morphResults.mp4" controls="no" >}}
+{{< video library="1" src="morphResults.mp4" controls="yes" >}}
