@@ -35,7 +35,7 @@ Seam Carving
 {{< youtube sWOWxolRWEw >}}
 {{< figure src="seam1.PNG" title="Seam Carving Result 1" lightbox="true" >}}
 {{< youtube Wq5J-BqKTk4 >}}
-{{< figure src="seam1.PNG" title="Seam Carving Result 2" lightbox="true" >}}
+{{< figure src="seam2.PNG" title="Seam Carving Result 2" lightbox="true" >}}
 
 Image Stitching
 {{< figure src="hebin1.PNG" title="Original Images" lightbox="true" >}}
