@@ -6,7 +6,7 @@ layout = "project"
 # Project title.
 title = "ODrive Hopper Robot"
 
-authors = ["Weiyi Tang", ["Sonia Roberts"](https://kodlab.seas.upenn.edu/group/Sonia/)]
+authors = ["Weiyi Tang", "Sonia Roberts"]
 
 # Project summary to display on homepage.
 summary = """
