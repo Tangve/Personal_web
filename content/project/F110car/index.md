@@ -8,9 +8,9 @@ title = "F1/10 Autonomous Racing"
 
 # Project summary to display on homepage.
 summary = """
-Assembly a F1/10 car and utilized C++ via ROS to code different algorithm to make car perform different behaviors.<bar> 
- 1). Utilized simple PD controller to complete wall following.<bar>
- 2). Applied reactive method: follow the gap to achieve run a lap without hitting obstacles.<bar>
+Assembly a F1/10 car and utilized C++ via ROS to code different algorithm to make car perform different behaviors.<br> 
+ 1). Utilized simple PD controller to complete wall following.<br>
+ 2). Applied reactive method: follow the gap to achieve run a lap without hitting obstacles.<br>
  3). Utilized SLAM to locate car then ran car with Pure Pursuit as global planner and RRT* as local planner.
  """
 
