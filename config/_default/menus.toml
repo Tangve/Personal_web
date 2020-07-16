@@ -10,7 +10,7 @@
   
 [[main]]
   name = "Projects"
-  url = "#posts"
+  url = "#projects"
   weight = 20
 
 # Link to a PDF of your resume/CV from the menu.
