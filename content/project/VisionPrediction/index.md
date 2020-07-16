@@ -6,7 +6,7 @@ layout = "project"
 # Project title.
 title = "Learning Predictive Models"
 
-authors = ["Karl Schmeckpeper", "**Weiyi Tang**"]
+authors = ["Karl Schmeckpeper", "Weiyi Tang"]
 
 # Project summary to display on homepage.
 summary = """
