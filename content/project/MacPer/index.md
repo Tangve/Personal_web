@@ -6,6 +6,8 @@ layout = "project"
 # Project title.
 title = "Machine Perception"
 
+authors = ["Weiyi Tang"]
+
 # Project summary to display on homepage.
 summary = """
 Implement machine perception technology include: logo projection, scale invariant, SIFT matching and 3D reconstruction.
