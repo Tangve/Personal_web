@@ -18,7 +18,7 @@ Using mechanical design inspired by the [Ghost Minitaur](https://kodlab.seas.upe
 tags = ["Control"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://github.com/Tangve/ODrive_Hopper_Robot"
+# external_link = "https://github.com/Tangve/ODrive_Hopper_Robot"
 +++
 ---
 Please enjoy the video (More details are coming later!):<br>
