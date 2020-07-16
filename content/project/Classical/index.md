@@ -8,7 +8,7 @@ title = "Classic Computer Vision Methods"
 
 # Project summary to display on homepage.
 summary = """
-Implement Canny edge dectetion, Image Gradient Blending, Image Morphing, Seam Carving, Image Stitching and Optical Flow.
+Implement Canny edge dectetion, Image Gradient Blending, Image Morphing, Seam Carving, Image Stitching and Optical Flow. (Note: Didn't use any package for all the implementations)
  """
 
 # Tags: can be used for filtering projects.
