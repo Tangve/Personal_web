@@ -6,7 +6,7 @@ layout = "project"
 # Project title.
 title = "ODrive Hopper Robot"
 
-authors: ["Weiyi Tang"]
+authors = ["Weiyi Tang"]
 
 # Project summary to display on homepage.
 summary = """
