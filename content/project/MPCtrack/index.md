@@ -6,6 +6,8 @@ layout = "project"
 # Project title.
 title = "Obstacle Avoidance: Path Planning and MPC Tracking"
 
+authors = ["Jiacan Xu", "Weiyi Tang", "Suyu Zhou"]
+
 # Project summary to display on homepage.
 summary = """
 In our project, the cart is running from a predefined source point to a destination point on a map with some fixed x and y boundaries. On the map we generate some randomly distributed obstacles with random sizes and shapes unknown to the cart. When the cart “detects” the obstacle, it will follow the path we planned to avoid collision.
