@@ -26,21 +26,33 @@ tags = ["Control"]
 +++
 
 ---
-Please enjoy the video <br>
+In the ROS simulator:<br>
 
-In the ROS simulator:
 
-Wall Following:
-{{< youtube gWFdEn1oq98 >}}
+**Wall Following**<br>
 
-Reactive Method:
-{{< youtube 3MXMH1wodKs >}}
+{{< youtube gWFdEn1oq98 >}}<br>
 
-Scan Match
-{{< youtube hmejmf63lrM >}}
 
-Motion Planning (RRT*):
-{{< youtube 0cDj6UN50go >}}
 
-Racing:
+**Reactive Method**<br>
+
+{{< youtube 3MXMH1wodKs >}}<br>
+
+
+
+**Scan Match**<br>
+
+{{< youtube hmejmf63lrM >}}<br>
+
+
+
+**Motion Planning (RRT*)**<br>
+
+{{< youtube 0cDj6UN50go >}}<br>
+
+
+
+**Racing**<br>
+
 {{< youtube AiyRyMEZwpE >}}
