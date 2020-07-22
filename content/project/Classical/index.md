@@ -22,8 +22,6 @@ tags = ["Computer Vision"]
 #external_link = "https://github.com/Tangve/Classic_Computer_Vision_Methods"
 +++
 ---
-Results are below (More details are coming later!)<br>
-
 **Image morphing**<br>
 
 A morph is a simultaneous warp of the image shape and a cross-dissolve of the image colors. The cross-dissolve is the easier part; controlling and doing the warp is the harder part. The warp is controlled by defining a correspondence between the two pictures. The correspondence should map eyes to eyes, mouth to mouth, chin to chin, ears to ears, etc., to get the smoothest transformations possible.
