@@ -26,7 +26,7 @@ tags = ["Control"]
 +++
 
 ---
-Please enjoy the video (More details are coming later!)<br>
+Please enjoy the video <br>
 
 In the ROS simulator:
 
