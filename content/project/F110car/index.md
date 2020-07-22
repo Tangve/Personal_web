@@ -47,7 +47,7 @@ In the ROS simulator:<br>
 
 
 
-**Motion Planning (RRT*)**<br>
+**RRT star**<br>
 
 {{< youtube 0cDj6UN50go >}}<br>
 
