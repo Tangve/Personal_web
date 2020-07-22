@@ -30,6 +30,8 @@ Using A* to avoid obstacles:
 
 {{< youtube WcCw1Dj3X-c >}}
 
+
+
 Using Potential Field to avoid obstacles:
 {{< youtube _N2d3hZdEKs >}}
 
