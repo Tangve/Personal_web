@@ -66,5 +66,3 @@ user_groups:
 ---
 
 I am a graduate student at University of Pennsylvania. I am currently a research assistent at [Kod Lab](https://kodlab.seas.upenn.edu/), a subsidiary of the Penn Engineering [GRASP Lab](https://www.grasp.upenn.edu/). My research interest lies in the interaction of robotics, control and vision. I am currently working on applying reinforcement learning a single leg of a direct-drive robot like [Minitaur](https://kodlab.seas.upenn.edu/robots/ghost-minitaur/) and learning predictive models from observation and interaction. I am particularly excited about finding ways to make robots interact with the physical environment surrounding them, then solve challenging tasks automatically.
-
-I am actively looking for a PhD position starting from Aug 2021. Please feel free to contact me!
