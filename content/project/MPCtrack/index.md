@@ -30,7 +30,7 @@ In our project, the cart is running from a predefined source point to a destinat
 We simplified the model of a unmanned vehicle to have two driving wheels for vehicle modeling, and we used a simple A* method and artificial potential field method for path planning. As for controller design, we used receding horizon (RH) or to say, Model Predictive Control (MPC) for the tracking control of our nonlinear problem. 
 
 
-**Using A* to avoid obstacles:**
+**Using A star to avoid obstacles**
 
 {{< youtube 0ffQce_p3gE >}}
 
@@ -38,7 +38,7 @@ We simplified the model of a unmanned vehicle to have two driving wheels for veh
 
 
 
-**Using Potential Field to avoid obstacles:**<br>
+**Using Potential Field to avoid obstacles**<br>
 
 {{< youtube _N2d3hZdEKs >}}
 
