@@ -19,6 +19,6 @@ we are going to implement a fully automated deep learning pipeline to segment a 
 tags = ["Computer Vision"]
 
 # Optional external URL for project (replaces project detail page).
-url = "files/cv.pdf"
+url = "files/Boneage.pdf"
 +++
 
