@@ -23,4 +23,4 @@ tags = ["Computer Vision"]
 +++
 ---
 
-More details are coming later!
+
