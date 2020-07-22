@@ -21,13 +21,22 @@ tags = ["Computer Vision"]
 #external_link = "https://www.educoder.net/paths/130"
 +++
 ---
-Please enjoy the video! (More details are coming later!)<br>
+**Logo Projection**<br>
 
-Logo Projection
-{{< figure src="logo.PNG" title="" lightbox="true" >}}
+In this programming assignment, we will use the concepts of projective geometry and homographies to allow us to project an image onto a scene in a natural way that respects perspective. To demonstrate this, we will project our logo onto the goal during a football match. I have images from a video sequence of a football match, as well as the corners of the goal in each image and an image of the Penn Engineering logo. Our task is, for each image in the video sequence, compute the homography between the Penn logo and the goal, and then warp the goal points onto the ones in the Penn logo to generate a projection of the logo onto the video frame.
 
-Scale Invariant
-{{< figure src="Sinv1.PNG" title="" lightbox="true" >}}
+{{< figure src="logo.PNG" title="" lightbox="true" >}}<br>
 
-3D reconstruction
+
+**Scale Invariant**<br>
+
+I am going to implement a scale-invariant blob detector. First, applying a series of DoG filters to the initial image to build a 3D-matrix of responses, then finding local maxima in position and scale.
+
+{{< figure src="Sinv1.PNG" title="" lightbox="true" >}}<br>
+
+
+**Pose Optimization**<br>
+
+In the first step, I trained a heatmap-based neural network that given an image of an object, it estimates the location of the keypoints in the image. For the second step, I used the coordinates of detected keypoints to estimate the 6DoF pose of the object.
+
 {{< figure src="3Dre.PNG" title="" lightbox="true" >}}
