@@ -10,7 +10,7 @@ authors = ["Weiyi Tang"]
 
 # Project summary to display on homepage.
 summary = """
-Implement machine perception technology include: logo projection, scale invariant, SIFT matching and 3D reconstruction.
+Implement machine perception technology include: logo projection, scale invariant, SIFT matching and pose estimation.
  """
 
 # Tags: can be used for filtering projects.
