@@ -19,5 +19,5 @@ LEGO, a robust collection of plastic construction toys manufactured by the LEGO 
 tags = ["Computer Vision"]
 
 # Optional external URL for project (replaces project detail page).
-url = "files/Lego.pdf"
+url = "static/files/Lego.pdf"
 +++
