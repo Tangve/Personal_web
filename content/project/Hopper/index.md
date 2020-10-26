@@ -27,4 +27,8 @@ The [Stanford Doggo](https://github.com/Nate711/StanfordDoggoProject) is a fully
 
 The final piece of the puzzle was the reactive jumping controller. The leg emulates a soft spring (low proportional and derivative gain) during the first half of stance, while it compresses, and then switches to emulating a stiff spring (high gains) when the leg length velocity changes sign, and the leg starts to extend. This simple controller dates back to Marc Raibert's seminal work on legged locomotion and is still used to underpin robust legged robot locomotion to this day.
 
+For more information, please see the report at: https://repository.upenn.edu/ese_papers/870/
+
+Please enjoy the vidoe:
+
 {{< youtube 7lFuCAbviWo >}}
