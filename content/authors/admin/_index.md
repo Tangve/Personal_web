@@ -18,11 +18,12 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include robotics, computer vision and reinforcement learning.
+bio: My research interests include robotics, control, motion planning, computer vision.
 
 interests:
 - Robotics
 - Control
+- Motion Planning
 - Computer Vision
 - Reinforcement Learning
 
